@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ff254d-3fa7-4480-b2b6-60a12f98bd9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Repository" />
+        <option name="mavenHome" value="D:/maven-3.6.2/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\maven-3.6.2\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xDRlsB6CkggsvgcfzeveTs8Uo8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/jdk1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.niochat.GroupChatClient" />
+      <module name="nettypro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.niochat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.niochat.GroupChatServer" />
+      <module name="nettypro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.niochat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.niocs.NIOClient" />
+      <module name="nettypro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.niocs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.simple.NettyClient" />
+      <module name="nettypro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.simple.NettyServer" />
+      <module name="nettypro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NIOClient" />
+      <item itemvalue="Application.GroupChatServer" />
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.NettyServer" />
+      <item itemvalue="Application.NettyClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.GroupChatServer" />
+        <item itemvalue="Application.NIOClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\longyuzmd\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ff254d-3fa7-4480-b2b6-60a12f98bd9f" name="Default Changelist" comment="" />
+      <created>1629887826998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629887826998</updated>
+      <workItem from="1629887830364" duration="1908000" />
+      <workItem from="1629945949796" duration="1597000" />
+      <workItem from="1629965356692" duration="7277000" />
+      <workItem from="1630055480954" duration="16039000" />
+      <workItem from="1630119473468" duration="6115000" />
+      <workItem from="1630139993806" duration="633000" />
+      <workItem from="1630152456886" duration="4822000" />
+      <workItem from="1630205293142" duration="2459000" />
+      <workItem from="1630215036927" duration="3723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630122172300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630122172300" />
+    <state x="1426" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1630218696117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1426" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1630218696117" />
+    <state width="628" height="466" key="DebuggerActiveHint" timestamp="1630121582067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="628" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1630121582067" />
+    <state width="1291" height="376" key="GridCell.Tab.0.bottom" timestamp="1630207956132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956132" />
+    <state width="1291" height="376" key="GridCell.Tab.0.center" timestamp="1630207956132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956132" />
+    <state width="1291" height="376" key="GridCell.Tab.0.left" timestamp="1630207956132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956132" />
+    <state width="1291" height="376" key="GridCell.Tab.0.right" timestamp="1630207956132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956132" />
+    <state width="1291" height="376" key="GridCell.Tab.1.bottom" timestamp="1630207956133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956133" />
+    <state width="1291" height="376" key="GridCell.Tab.1.center" timestamp="1630207956133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956133" />
+    <state width="1291" height="376" key="GridCell.Tab.1.left" timestamp="1630207956133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956133" />
+    <state width="1291" height="376" key="GridCell.Tab.1.right" timestamp="1630207956133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1291" height="376" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630207956133" />
+    <state x="633" y="175" key="Maven.ArtifactSearchDialog" timestamp="1630152672925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630152672925" />
+    <state x="169" y="160" key="SettingsEditor" timestamp="1630153236517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="169" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630153236517" />
+    <state x="1281" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1630215350727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1281" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630215350727" />
+    <state x="1122" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1630066596905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1122" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630066596905" />
+  </component>
+</project>
